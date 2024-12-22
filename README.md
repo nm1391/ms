@@ -1,1 +1,1 @@
-# a novel approach of ms classification
+# an approach of ms classification
